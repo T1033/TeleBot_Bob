@@ -1,0 +1,2 @@
+TOKEN = "1617098251:AAEYWlcSaJSCy6CqNQhVtxkSIO90McT2yg0"
+#https://api.telegram.org/bot1617098251:AAEYWlcSaJSCy6CqNQhVtxkSIO90McT2yg0/getUpdates
